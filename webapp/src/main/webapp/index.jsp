@@ -4,15 +4,15 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" type="text/css" href="style.css" />
 
-<title>Reverted by team computers</title>
+<title>Reverted by tomcat server</title>
 </head>
 
 <body>
     <div id="page">
 		
         <div id="header">
-        	<h1>DevOps Class »</h1>
-            <h2>HELLO Welcome to DevOps v3</h2>
+        	<h1>DevOps Class»</h1>
+            <h2>HELLO Welcome to DevOps v4</h2>
             
       </div>
         <div id="bar">
